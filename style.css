@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
   
-    background: linear-gradient(rgb(0, 249, 236), rgb(71, 150, 229));
+    background: #FFE5B4;
   }
   
   #noButton {
@@ -28,7 +28,7 @@ body {
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
-    color: #ffffff;
+    color: #650015;
   }
   
   .text {
@@ -51,7 +51,7 @@ body {
   }
   
   .btn {
-    background-color: #017cff;
+    background-color: #c21e56;
     color: white;
     font-weight: 600;
     padding: 15px 32px;
